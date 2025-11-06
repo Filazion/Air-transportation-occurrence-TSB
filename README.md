@@ -48,3 +48,5 @@ pip install -r requirements.txt
 jupyter lab notebooks/severity_model.ipynb
 # To run the API:
 uvicorn app.main:app --reload
+
+### Updates coming soon
