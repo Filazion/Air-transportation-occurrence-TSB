@@ -1,6 +1,6 @@
 # Aviation Safety Data Projects
 
-This repository contains a collection of data analysis and data science projects built with the Transportation Safety Board of Canada (TSB) aviation occurrence dataset.  Each project explores a different aspect of the data, from predictive modeling to geospatial analysis and natural‑language processing.  Together they demonstrate a comprehensive approach to understanding aviation safety and building a robust data portfolio.
+This repository contains a collection of data analysis and data science projects built with the Transportation Safety Board of Canada (TSB) aviation occurrence dataset.  Each project explores a different aspect of the data, from predictive modeling to geospatial analysis and natural‑language processing. 
 
 ## Table of Contents
 
